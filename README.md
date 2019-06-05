@@ -1,11 +1,16 @@
-Markdown.css
+Org.css
 ============
 
-A perverse way to make your HTML look like markdown, purely via CSS.
+A perverse way to make your HTML look like org-mode, purely via CSS.
 
-Use the `markdown.css` file to  make regular HTML look like plain-text markdown. No JavaScript hacks are needed. View [the demo](https://mrcoles.com/demo/markdown-css/) to see what I’m talking about.
+Use the `orrg.css` file to  make regular HTML look like plain-text markdown. No JavaScript hacks are needed.
 
-The styles are written in `markdown.less`. If you want to hack on this project, you can convert the less files to css with `build.sh` or run the `watch_less.sh` script to have it auto-update when the files change.
+The styles are written in `org.less`. If you want to hack on this project, you can convert the less files to css with `build.sh` or run the `watch_less.sh` script to have it auto-update when the files change.
+
+
+
+----
+bla bla change below
 
 This is built to support all of the standard [markdown elements](http://daringfireball.net/projects/markdown/basics) with a few minor issues.
 
